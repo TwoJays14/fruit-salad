@@ -1,0 +1,24 @@
+{
+  "name": "fruit-salad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "watchify ./js/script.js -o bundle.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TwoJays14/fruit-salad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TwoJays14/fruit-salad/issues"
+  },
+  "homepage": "https://github.com/TwoJays14/fruit-salad#readme",
+  "devDependencies": {
+    "watchify": "^4.0.0"
+  }
+}
